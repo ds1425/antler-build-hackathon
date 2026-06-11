@@ -1,8 +1,6 @@
 # antler-build-hackathon
 Antler Build Hackathon Project
 
-NORTHSTAR
-
 NorthStar is an AI-powered career discovery platform that helps people understand who they are, what motivates them, what problems they are naturally drawn to solve, and how that translates into meaningful careers.
 
 The goal is for users to leave the platform feeling:
@@ -28,18 +26,6 @@ Purpose DNA consists of seven archetypes:
    Identifies opportunities, patterns, trends, leverage points, future possibilities.
 7. Connector:
    Builds relationships, communities, partnerships, influence networks.
-
-Every user receives a percentage score across all seven archetypes.
-
-Example:
-
-Builder 42%
-Strategist 28%
-Explorer 15%
-Connector 10%
-Guide 3%
-Optimiser 1%
-Protector 1%
 
 After calculating Purpose DNA, we generate a deeply personalised purpose statement.
 
