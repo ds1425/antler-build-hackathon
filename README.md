@@ -3,7 +3,7 @@ Antler Build Hackathon Project
 
 # NorthStar
 
-# Product Demo
+## Product Demo
 
 https://northstar-career-path.base44.app/
 
