@@ -1,77 +1,44 @@
 # antler-build-hackathon
 Antler Build Hackathon Project
 
-NorthStar is an AI-powered career discovery platform that helps people understand who they are, what motivates them, what problems they are naturally drawn to solve, and how that translates into meaningful careers.
+# NorthStar
 
-The goal is for users to leave the platform feeling:
-- "I finally understand myself."
-- "I understand what I am naturally wired for."
-- "I know what careers fit me."
-- "I know what to do next."
+## Overview
 
-We have created a Purpose DNA profile.
+NorthStar is an AI-powered career discovery platform that helps people understand who they are, what motivates them, and where they can create the most value. By combining purpose-driven profiling, career intelligence, and job simulations, North helps users move from uncertainty to clarity.
 
-Purpose DNA consists of seven archetypes:
-1. Builder:
-   Creates new things, products, businesses, systems, technology, innovations.
-2. Optimiser:
-   Improves systems, processes, efficiency, performance, operations.
-3. Protector:
-   Protects people, systems, organisations, information, safety, security.
-4. Guide:
-   Helps, teaches, mentors, supports, coaches, enables others.
-5. Explorer:
-   Discovers, researches, learns, investigates, experiments.
-6. Strategist:
-   Identifies opportunities, patterns, trends, leverage points, future possibilities.
-7. Connector:
-   Builds relationships, communities, partnerships, influence networks.
+## Problem
 
-After calculating Purpose DNA, we generate a deeply personalised purpose statement.
+Students and graduates are expected to make important education and career decisions without a clear understanding of their strengths, motivations, or the opportunities available to them. At the same time, AI is rapidly reshaping industries and creating new career pathways, making traditional career guidance increasingly outdated.
 
-Examples:
+## Solution
 
-"Your purpose is to build intelligent solutions that help people learn, adapt, and thrive in a rapidly changing world."
+NorthStar helps users discover their Purpose DNA, identify careers aligned with their strengths and interests, and explore realistic job pathways before committing to them. The platform combines AI-powered profiling, personalised recommendations, and interactive job simulations to provide actionable career direction.
 
-"Your purpose is to uncover patterns and opportunities that help organisations make better decisions."
+## How It Works
 
-"Your purpose is to protect people and organisations from risks by creating secure and resilient systems."
+Users complete a guided assessment and optionally upload their resume. North analyses their skills, experiences, motivations, and interests to generate a personalised profile, purpose statement, career matches, job recommendations, and a tailored development roadmap.
 
-We have a section called: "What Makes You Come Alive"
+## Purpose DNA
 
-It generates:
-* Activities that energise them
-* Activities that drain them
-* Environments where they thrive
-* Environments where they struggle
-* Problems they are naturally drawn to solving
-* Types of people they enjoy helping
-* Types of work they may find meaningful
+NorthStar introduces a Purpose DNA framework that identifies how an individual is naturally inclined to contribute. Rather than placing people into a single category, North generates a unique combination of archetypes that reflect their strengths, motivations, and preferred ways of creating impact.
 
-After Purpose DNA is generated, we help users identify:
+## Job Simulations
 
-Top 3 Career Pathways
-Top 5 Matching Job Roles
-Top 5 Emerging AI-Era Job Roles
+NorthStar allows users to experience realistic workplace scenarios before pursuing a career path. These simulations provide a practical understanding of what a role involves and help users assess whether a particular career aligns with their interests, strengths, and long-term goals.
 
-For each role, we show users:
+## Target Market
 
-* Match score
-* Purpose alignment score
-* Skill readiness score
-* Why it fits
-* Why it may not fit
-* Required skills
-* Missing skills
-* Learning roadmap
+NorthStar is designed for students exploring future pathways, graduates seeking their first professional role, and early-career professionals looking for greater clarity and direction. The platform also supports universities and education providers seeking to improve student engagement, retention, and employment outcomes.
 
-For each recommended role, we create a Career Roadmap:
+## Why Now
 
-Current State
-→ Skill Gap Analysis
-→ Recommended Learning
-→ Recommended Projects
-→ Recommended Experience
-→ Recommended Job Targets
+The future of education and the future of work are becoming increasingly interconnected. As AI transforms the skills required across industries, individuals need better tools to navigate career decisions, while institutions need scalable ways to guide learners toward meaningful outcomes.
 
-and show estimated time to become job ready.
+## Vision
+
+NorthStar aims to become the intelligence layer between education and employment, helping people discover their purpose, understand their potential, and navigate the future of work with confidence.
+
+## Future Roadmap
+
+Future development includes university partnerships, employer integrations, labour market intelligence, AI-powered career coaching, skills mapping, and personalised learning pathways that continuously adapt as industries and careers evolve.
