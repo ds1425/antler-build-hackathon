@@ -81,7 +81,7 @@ For each role, we show users:
 
 For each recommended role, we create a Career Roadmap:
 
-→ Current State
+Current State
 → Skill Gap Analysis
 → Recommended Learning
 → Recommended Projects
