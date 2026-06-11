@@ -3,7 +3,7 @@ Antler Build Hackathon Project
 
 ALGORA
 
-Objective: Algora is an AI-powered career discovery platform that helps people understand who they are, what motivates them, what problems they are naturally drawn to solve, and how that translates into meaningful careers.
+Algora is an AI-powered career discovery platform that helps people understand who they are, what motivates them, what problems they are naturally drawn to solve, and how that translates into meaningful careers.
 
 The goal is for users to leave the platform feeling:
 - "I finally understand myself."
