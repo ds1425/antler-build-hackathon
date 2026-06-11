@@ -14,19 +14,19 @@ The goal is for users to leave the platform feeling:
 We have created a Purpose DNA profile.
 
 Purpose DNA consists of seven archetypes:
-1. Builder
+1. Builder:
    Creates new things, products, businesses, systems, technology, innovations.
-2. Optimiser
+2. Optimiser:
    Improves systems, processes, efficiency, performance, operations.
-3. Protector
+3. Protector:
    Protects people, systems, organisations, information, safety, security.
-4. Guide
+4. Guide:
    Helps, teaches, mentors, supports, coaches, enables others.
-5. Explorer
+5. Explorer:
    Discovers, researches, learns, investigates, experiments.
-6. Strategist
+6. Strategist:
    Identifies opportunities, patterns, trends, leverage points, future possibilities.
-7. Connector
+7. Connector:
    Builds relationships, communities, partnerships, influence networks.
 
 Every user receives a percentage score across all seven archetypes.
