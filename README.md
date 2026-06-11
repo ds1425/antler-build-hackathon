@@ -3,6 +3,10 @@ Antler Build Hackathon Project
 
 # NorthStar
 
+# Product Demo
+
+https://northstar-career-path.base44.app/
+
 ## Overview
 
 NorthStar is an AI-powered career discovery platform that helps people understand who they are, what motivates them, and where they can create the most value. By combining purpose-driven profiling, career intelligence, and job simulations, North helps users move from uncertainty to clarity.
