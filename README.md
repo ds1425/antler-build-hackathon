@@ -79,9 +79,7 @@ For each role, we show users:
 * Missing skills
 * Learning roadmap
 
-Career Roadmap
-
-For each recommended role, we create:
+For each recommended role, we create a Career Roadmap:
 
 → Current State
 → Skill Gap Analysis
