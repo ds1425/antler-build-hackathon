@@ -1,7 +1,9 @@
 # antler-build-hackathon
 Antler Build Hackathon Project
 
-Algora is an AI-powered career discovery platform that helps people understand who they are, what motivates them, what problems they are naturally drawn to solve, and how that translates into meaningful careers.
+ALGORA
+
+Objective: Algora is an AI-powered career discovery platform that helps people understand who they are, what motivates them, what problems they are naturally drawn to solve, and how that translates into meaningful careers.
 
 The goal is for users to leave the platform feeling:
 - "I finally understand myself."
@@ -9,30 +11,21 @@ The goal is for users to leave the platform feeling:
 - "I know what careers fit me."
 - "I know what to do next."
 
-PURPOSE DNA ENGINE
-
 We have created a Purpose DNA profile.
 
 Purpose DNA consists of seven archetypes:
-
 1. Builder
    Creates new things, products, businesses, systems, technology, innovations.
-
 2. Optimiser
    Improves systems, processes, efficiency, performance, operations.
-
 3. Protector
    Protects people, systems, organisations, information, safety, security.
-
 4. Guide
    Helps, teaches, mentors, supports, coaches, enables others.
-
 5. Explorer
    Discovers, researches, learns, investigates, experiments.
-
 6. Strategist
    Identifies opportunities, patterns, trends, leverage points, future possibilities.
-
 7. Connector
    Builds relationships, communities, partnerships, influence networks.
 
@@ -58,14 +51,9 @@ Examples:
 
 "Your purpose is to protect people and organisations from risks by creating secure and resilient systems."
 
-PURPOSE INSIGHTS
-
-We have a section called:
-
-"What Makes You Come Alive"
+We have a section called: "What Makes You Come Alive"
 
 It generates:
-
 * Activities that energise them
 * Activities that drain them
 * Environments where they thrive
@@ -73,8 +61,6 @@ It generates:
 * Problems they are naturally drawn to solving
 * Types of people they enjoy helping
 * Types of work they may find meaningful
-
-CAREER PATHWAY ENGINE
 
 After Purpose DNA is generated, we help users identify:
 
@@ -93,11 +79,11 @@ For each role, we show users:
 * Missing skills
 * Learning roadmap
 
-CAREER ROADMAP
+Career Roadmap
 
 For each recommended role, we create:
 
-Current State
+→ Current State
 → Skill Gap Analysis
 → Recommended Learning
 → Recommended Projects
@@ -105,10 +91,3 @@ Current State
 → Recommended Job Targets
 
 and show estimated time to become job ready.
-
-Examples:
-
-30 Days
-90 Days
-6 Months
-12 Months
